@@ -3,3 +3,14 @@
     width: 850px;
     margin-top: 10px;
 }
+.bounding-box {
+    position: absolute;
+    box-shadow: inset 0 0 0 3px #149df2;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-pack: center;
+    justify-content: center;
+    cursor: pointer;
+}
